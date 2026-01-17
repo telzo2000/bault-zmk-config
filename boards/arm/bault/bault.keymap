@@ -26,9 +26,9 @@
         base {
             bindings = <
                 &kp Q      &kp W      &kp E      &kp R      &kp T      &kp Y      &kp U      &kp I      &kp O      &kp P      &kp LEFT_BRACKET
-                &hm LEFT_CONTROL A  &hm LEFT_ALT S  &hm LGUI D  &hm LEFT_SHIFT F  &kp G      &kp H      &hm RIGHT_SHIFT J  &hm RIGHT_GUI K  &hm LEFT_ALT L  &hm RCTRL SEMICOLON
-                &kp Z      &kp X      &kp C      &kp V      &kp B      &kp N      &kp M      &kp COMMA      &kp PERIOD      &kp SLASH
-                &kp N0      &mo 3      &kp ENTER      &kp SPACE      &kp BACKSPACE      &mo 1      &mo 2      &kp N0
+                &kp A      &kp S      &kp D      &kp F      &kp G      &kp H      &kp J      &kp K      &kp L      &kp ENT
+                &kp Z      &kp X      &kp C      &kp V      &kp B      &kp N      &kp M      &kp COMMA      &kp PERIOD      &kp LEFT_SHIFT
+                &kp N0     &mo 3      &kp ENTER      &kp SPACE      &kp BACKSPACE      &mo 1      &mo 2      &kp N0
             >;
         };
 
